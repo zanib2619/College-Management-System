@@ -97,3 +97,15 @@ CREATE TABLE Enrollments (
 
 
 ```
+
+✅ Features
+
+Structured schema for real-world use cases
+
+Clean and readable SQL
+
+Easy to extend with more entities (e.g., instructors, departments)
+
+
+
+
