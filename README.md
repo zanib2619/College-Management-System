@@ -8,9 +8,9 @@ This project is a basic implementation of a relational database schema for a Col
 The main goal of this project is to design a well-structured schema that demonstrates:
 
 * Creating a database and tables
-* Defining primary and foreign keys
+* Using primary and foreign keys
 * Establishing relationships between entities
-* Writing clean and structured SQL
+* Structured SQL
 
 This project is part of my learning and internship submission, aimed at demonstrating my understanding of database design concepts.
 
