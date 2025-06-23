@@ -10,7 +10,7 @@ The main goal of this project is to design a well-structured schema that demonst
 * Creating a database and tables
 * Using primary and foreign keys
 * Establishing relationships between entities
-* Structured SQL
+
 
 This project is part of my learning and internship submission, aimed at demonstrating my understanding of database design concepts.
 
